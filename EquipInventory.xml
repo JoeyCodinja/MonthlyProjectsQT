@@ -1,0 +1,45 @@
+<Inventory>
+  <Laptops>
+    <Laptop status="0" servicetag="CD7V9C1" model="D620">ISSLT-07</Laptop>
+    <Laptop status="1" servicetag="GPQJNG1" model="PP18L" ticket="None" deployedto="ZonyaPryce">ISSLT-08</Laptop>
+    <Laptop status="1" servicetag="C3N5OL1" model="PRECISIONM4400" ticket="None" deployedto="None">ISSLT-15</Laptop>
+    <Laptop status="0" servicetag="D&#216;VLVK1" model="LATE6500">ISSLT-14</Laptop>
+    <Laptop status="0" servicetag="G&#216;VLVK1" model="LATE6500">ISSLT-13</Laptop>
+    <Laptop status="1" servicetag="11&#216;VLVK1" model="LATE6500" ticket="None" deployedto="AndreForbes">ISSLT-12</Laptop>
+    <Laptop status="0" servicetag="C&#216;VLVK1" model="LATE6500">ISSLT-11</Laptop>
+  </Laptops>
+  <Projectors>
+    <Projector status="2" servicetag="2XQC1S1" model="4220">ISS Pro-36</Projector>
+    <Projector status="0" servicetag="9GO5LJ1" model="4210X">ISS Pro-29</Projector>
+    <Projector status="0" servicetag="F6C002611" model="3MX75">ISS Pro-27</Projector>
+    <Projector status="50" servicetag="F6C002627" model="3MX75">ISS Pro-26</Projector>
+    <Projector status="0" servicetag="FCC5NG1" model="M409WX">ISS Pro-25</Projector>
+    <Projector status="0" servicetag="G4B000641" model="3MX65">ISS Pro-24</Projector>
+    <Projector status="0" servicetag="D2XW4M1" model="4210x">ISS Pro-35</Projector>
+    <Projector status="51" servicetag="G4B000664" model="3MX65">ISS Pro-21</Projector>
+    <Projector status="0" servicetag="8W064P1" model="4320">ISS Pro-37</Projector>
+  </Projectors>
+  <ProjectionScreens>
+    <Projection_screen status="0" servicetag="93882-2&#160;&#160;&#160;&#160;&#160;" model="PictureKing60&quot;x80&quot;">Screen100-02</Projection_screen>
+    <Projection_screen status="0" servicetag="93880" model="PictureKing50&quot;x67&quot;">Screen84-02&#160; </Projection_screen>
+    <Projection_screen status="0" servicetag="93882" model="PictureKing60&quot;x80&quot;">Screen100-01 </Projection_screen>
+    <Projection_screen status="0" servicetag="93880-3&#160;&#160;&#160;&#160;" model="PictureKing50&quot;x67&quot;">Screen84-01</Projection_screen>
+  </ProjectionScreens>
+  <DocumentCameras>
+    <Document_camera status="0" servicetag="087265" model="VZ-8plus">Wolf Vision</Document_camera>
+    <Document_camera status="0" servicetag="S1060068" model="SVP-6000N">Samsung SVP-6000N</Document_camera>
+  </DocumentCameras>
+  <Speakers>
+    <Speaker status="0" servicetag="A209061501331B" model="AudioEngineA2Desktop">2.0 Portable 01</Speaker>
+    <Speaker status="0" servicetag="92360SHUS023595" model="AltecLansingVS4121BLK">ISS Roll Out 03</Speaker>
+    <Speaker status="0" servicetag="92360SHUS02395" model="AltecLansingVS4121BLK">ISS Roll Out 02</Speaker>
+    <Speaker status="0" servicetag="92360SHUS0255394" model="AltecLansingVS4121BLK">ISS Roll Out 01</Speaker>
+  </Speakers>
+  <DVDPlayers>
+    <Dvd_player status="0" servicetag="VA61C003172R" model="DVD-S1">ISS DVD-01</Dvd_player>
+  </DVDPlayers>
+  <VCRs>
+    <Vcr status="0" servicetag="210756905" model="VC-A560U">Sharpe 1</Vcr>
+    <Vcr status="0" servicetag="A11E90466" model="PV-V4521">Panasonic 1</Vcr>
+  </VCRs>
+</Inventory>
